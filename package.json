@@ -1,0 +1,17 @@
+{
+  "name": "js-random-data",
+  "version": "1.0.1",
+  "description": "a js tool that allows you to generate random data",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "data",
+    "random"
+  ],
+  "author": "Jaden Rodriguez",
+  "license": "ISC"
+}
